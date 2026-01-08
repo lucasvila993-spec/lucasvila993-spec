@@ -31,7 +31,7 @@
    - Curto aprender novas tecnologias  
    - Estou sempre buscando evoluir como desenvolvedor  
     
-    ---
+  ---
     
   ## 🛠️ Tecnologias
     
